@@ -1,3 +1,11 @@
+
+//Functions definitions
+void printName(){
+  print('Atul Singh');
+}
+int age(){
+  return 21;
+}
 void main(){
   //Function call
   printName();
@@ -10,10 +18,4 @@ void main(){
   var c = age();
   print(c);
 }
-//Functions definitions
-void printName(){
-  print('Atul Singh');
-}
-int age(){
-  return 21;
-}
+
